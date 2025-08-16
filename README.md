@@ -1,6 +1,4 @@
-# Vaishnavi Raj - Futuristic Portfolio 2040 🚀
-
-A cutting-edge, futuristic portfolio website built with Next.js, React, and advanced animations that makes visitors feel like they're experiencing technology from 2040.
+# Vaishnavi Raj 
 
 ## ✨ Features
 
@@ -202,6 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ and 🚀 for the future of web development**
+**Built with ❤️ **
 
-*Experience the future of portfolios - where technology meets creativity*
+
